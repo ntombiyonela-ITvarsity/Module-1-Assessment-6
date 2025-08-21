@@ -1,0 +1,59 @@
+.gallery img{
+        display: block;
+         width: 50%;
+         margin-left: auto;
+         margin-right: auto;
+}
+
+th{
+    font-weight: 800;
+    color: brown;
+    background-color:#2695A6
+
+}
+
+table{
+    border-collapse: collapse;
+    font-family: Helvetica,sans-serif;
+    border-width: 1px;
+    border-style:solid;
+    border-color:#2695A6;
+
+}
+
+#menu{
+    width: 100%;
+    height: 40px;
+    background-color: cornflowerblue;
+    padding-top: 12px;
+}
+
+
+#menu a{
+    color: #ffffff;
+    font-family: Helvetica, sans-serif;
+    font-size: 18px;
+    text-decoration: none;
+    font-weight: 800;
+
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#menu a:hover{
+     color: #5077bd;
+}
+
+h2, h4, p{
+    text-transform: uppercase;
+    text-align: center;
+}
+
+#mybutton{
+    text-align: center;
+}
+
+#mytable{
+    margin-left: auto;
+    margin-right: auto;
+}
